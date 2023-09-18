@@ -153,11 +153,8 @@ footer {
   font-size: 14px;
 }
 
-footer a {
-  transition: color 0.2s;
-}
-
 footer a:hover {
+  transition: color 0.2s;
   color: var(--footer-a-hover);
 }
 
